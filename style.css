@@ -10,10 +10,10 @@ body {
   text-align: center;
 }
 main.container {
-  box-shadow: 0 0 10px #111;
-	min-height: 600px;
+    box-shadow: 0 0 10px #111;
+    min-height: 600px;
 	background-color: #FDF4F4;
-  border-radius: 10px;
+    border-radius: 10px;
 }
 #image, #image3, #image4, #image5{
   width: 500px;
