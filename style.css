@@ -1,36 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 body {
   background: #FBEEDF;
-  padding: 30px;
-  width: 1200px;
-  margin: 0 auto;
 }
-#main {
-  font-family: 'Lora';
-  text-align: center;
+.header {
+  background: black;
+  position: absolute;
+  width: 100%;
 }
-main.container {
-    box-shadow: 0 0 10px #111;
-    min-height: 600px;
-	background-color: #FDF4F4;
-    border-radius: 10px;
-}
-#image, #image3, #image4, #image5{
-  width: 500px;
-}
-#image {
-  width:100%;
-  height:auto;
-  max-width:500px;
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-}
-#tribute-info {
-  padding: 10px;
-}
-ul { 
-  width: 400px;
-  margin-left: auto;
-  margin-right: auto;
+.header-image {
+ 
 }
