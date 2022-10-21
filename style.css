@@ -1,12 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 body {
   background: #FBEEDF;
 }
 .header {
-  background: black;
+  background: grey;
   position: absolute;
   width: 100%;
+  object-position: left bottom;
 }
 .header-image {
- 
+  width: 50%;
+}
+.title {
+  color: white;
+  position: absolute;
+  text-align: center;
+  right: 15%;
+  top: 30%;
+  font-family: 'Dancing Script', cursive;
+  font-size: xx-large;
 }
